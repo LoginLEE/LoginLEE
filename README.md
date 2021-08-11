@@ -3,7 +3,7 @@
 Hi there, I'm Edmund LEE a MPhil Student.
 
 - I'm currently studying at HKUST!!!
-- I'm currently learning to learn how to machine learn.
+- I'm currently learning to learn how to make machine learn.
 
 
 
