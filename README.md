@@ -12,7 +12,7 @@
 <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
 
 <p>
-<img src="images/icon.jpg" align="right">
+
 </div>
 
 - I'm currently studying at HKUST!!!
