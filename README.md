@@ -5,24 +5,20 @@
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <div align="center">
 
-
-![](https://komarev.com/ghpvc/?username=LoginLEE&style=flat-square&label=Views&)
+![](https://komarev.com/ghpvc/?username=LoginLEE&style=flat-square&label=Views&color=lightgrey)
 ![](https://badges.pufler.dev/visits/LoginLEE/LoginLEE?color=black&logo=github&style=flat-square)
 ![](https://badges.pufler.dev/repos/LoginLEE?color=white&logo=github&style=flat-square)
-
 
 <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
 
 <p>
-
-
 
 I'm currently studying MPhil in Electronic and Computer Engineering at HKUST!!!
 
 Also currently learning to learn how to make machine learn.
 
 
-<summary><b>Skills</b></summary>
+<b>Skills</b>
 
 
 ![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
@@ -35,7 +31,7 @@ Also currently learning to learn how to make machine learn.
 ![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
 ![mongoDB](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)
 
-<summary><b>OS & Tools</b></summary>
+<b>OS & Tools</b>
 
 
 
