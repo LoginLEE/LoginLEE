@@ -3,14 +3,14 @@
 </div>
 <body>
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
-<br>
+<div align="center">
+
 
 ![](https://komarev.com/ghpvc/?username=LoginLEE&style=flat-square&label=Views&)
 ![](https://badges.pufler.dev/visits/LoginLEE/LoginLEE?color=black&logo=github&style=flat-square)
 ![](https://badges.pufler.dev/repos/LoginLEE?color=white&logo=github&style=flat-square)
 
 
-<div align="center">
 <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
 
 <p>
@@ -57,6 +57,7 @@ Also currently learning to learn how to make machine learn.
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/LoginLEE)
 [![Outlook](https://img.shields.io/badge/-Outlook-FFFFFF?style=for-the-badge&logo=MicrosoftOutlook&logoColor=blue)](mailto:lyleeaf@connect.ust.hk)
 [![Instagram](https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lokyin_lokyin_lokyin/)
+[![Fackbook](https://img.shields.io/badge/-Facebook-FFFFFF?style=for-the-badge&logo=Facebook&logoColor=blue)](https://www.facebook.com/call.me.yinyin/)
 
 <br>
 <br>
